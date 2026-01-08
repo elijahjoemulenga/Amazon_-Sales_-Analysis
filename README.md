@@ -12,7 +12,6 @@ Analyzed fictional Amazon sales data to identify revenue trends, top sales reps,
 1. **Data Cleaning**: Removed duplicates, standardized formats (e.g., dates, text) in Excel.
 2. **SQL Analysis**: Ran queries to group by Sales_Rep, Product_Category, and Sales_Channel — ordered by profit DESC.
 3. **Insights & Visuals**: Built Power BI dashboard showing trends (e.g., Q1–Q4 products by category) and recommendations.
-## Screenshots
 - 
 ## Files Included
 - `amazon_sales_data.xlsx`.
