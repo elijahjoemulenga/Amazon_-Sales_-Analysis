@@ -15,8 +15,8 @@ Analyzed fictional Amazon sales data to identify revenue trends, top sales reps,
 - 
 ## Files Included
 - `amazon_sales_data.xlsx`.
-- `queries.sql`: SQL script with comments.
-- `amazon_dashboard.pbix`: Power BI file (if small; otherwise, link to it).
+- `amazon_sales_data.sql`: SQL queries with comments.
+- `amazon_dashboard.pbix`: Power BI files.
 
 ## Key Findings
 - Top sales rep: [From the query results, e.g., Eve with highest profit].
